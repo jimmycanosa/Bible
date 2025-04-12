@@ -1,4 +1,6 @@
-[[Old Testament]]
+66 books of the Bible
+39 books [[Old Testament]]
+27 books [[New Testament]]
 
 1. [[Genesis]]
 2. [[Exodus]]
@@ -39,9 +41,6 @@
 37. [[Haggai]]
 38. [[Zechariah]]
 39. [[Malachi]]
-
-[[New Testament]]
-
 40. [[Matthew]]
 41. [[Mark]]
 42. [[Luke]]

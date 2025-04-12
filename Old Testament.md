@@ -1,4 +1,5 @@
-39 of 66 books of [[The Bible]]
+39 of 66 books of the [[The Bible|Bible]]
+
 1. [[Genesis]]
 2. [[Exodus]]
 3. [[Leviticus]]

@@ -1,4 +1,5 @@
-27 of 66 books of [[The Bible]]
+27 of 66 books of the [[The Bible|Bible]]
+
 1. [[Matthew]]
 2. [[Mark]]
 3. [[Luke]]
